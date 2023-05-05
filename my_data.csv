@@ -1,0 +1,43 @@
+﻿name,Any_disability,SSI,Household_income,number_SSI,geometry,SSI_category_new
+Bristol,1,1,"$10,000 to $34,999",1,,Low
+Bristol,1,2,"$10,000 to $34,999",4,,Low
+Bristol,1,2,"$100,000 and over",6,,Less
+Bristol,1,2,"$35,000 to $69,999",1,,Low
+Bristol,1,2,"$70,000 to $99,999",2,,Low
+Bristol,1,2,"Under $10,000",1,,Low
+Essex,1,1,"$10,000 to $34,999",2,,Low
+Essex,1,1,"$35,000 to $69,999",1,,Low
+Essex,1,1,"Under $10,000",1,,Low
+Essex,1,2,"$10,000 to $34,999",5,,Less
+Essex,1,2,"$100,000 and over",8,,Less
+Essex,1,2,"$35,000 to $69,999",1,,Low
+Essex,1,2,"$70,000 to $99,999",2,,Low
+Essex,1,2,"Under $10,000",1,,Low
+Hampden,1,1,"$10,000 to $34,999",2,,Low
+Hampden,1,1,"Under $10,000",3,,Low
+Hampden,1,2,"$10,000 to $34,999",6,,Less
+Hampden,1,2,"$35,000 to $69,999",2,,Low
+Hampden,1,2,"$70,000 to $99,999",2,,Low
+Hampden,1,2,"Under $10,000",1,,Low
+Hampshire,1,2,"$35,000 to $69,999",1,,Low
+Middlesex,1,1,"$10,000 to $34,999",2,,Low
+Middlesex,1,1,"$100,000 and over",1,,Low
+Middlesex,1,2,"$10,000 to $34,999",2,,Low
+Middlesex,1,2,"$100,000 and over",5,,Less
+Middlesex,1,2,"$35,000 to $69,999",2,,Low
+Middlesex,1,2,"$70,000 to $99,999",1,,Low
+Norfolk,1,2,"$10,000 to $34,999",2,,Low
+Norfolk,1,2,"$100,000 and over",2,,Low
+Norfolk,1,2,"$35,000 to $69,999",4,,Low
+Plymouth,1,2,"$100,000 and over",3,,Low
+Plymouth,1,2,"Under $10,000",2,,Low
+Suffolk,1,1,"$10,000 to $34,999",1,,Low
+Suffolk,1,2,"$10,000 to $34,999",1,,Low
+Suffolk,1,2,"$100,000 and over",4,,Low
+Suffolk,1,2,"$35,000 to $69,999",1,,Low
+Suffolk,1,2,"$70,000 to $99,999",1,,Low
+Worcester,1,1,"$10,000 to $34,999",1,,Low
+Worcester,1,2,"$10,000 to $34,999",2,,Low
+Worcester,1,2,"$100,000 and over",8,,Less
+Worcester,1,2,"$35,000 to $69,999",4,,Low
+Worcester,1,2,"Under $10,000",2,,Low
